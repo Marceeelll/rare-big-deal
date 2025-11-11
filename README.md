@@ -195,6 +195,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **RBD2025** | 2025-12-01 |
 | 💥 | [TypeBoost](https://www.typeboost.ai) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... + iOS app | **60% OFF** for 6 months with code **BF2025** | 2025-12-05 |
 | 🖊 | [Presentify](https://presentifyapp.com/) | Annotate your screen in real-time | **30% OFF** No code needed | 2025-12-01 |
+| ⭐ | [DeskRest](https://deskrest.com/) | Smart break reminder app. Pauses during videos/meetings. Adapts to your workflow. | **50% OFF** with code **BLACKFRIDAY** | 2025-12-02 |
 
 
 ### Design Tools
